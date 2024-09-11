@@ -1,0 +1,10 @@
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\МДК 03.01\Бессогонов, Загребин\fdasddssfdssfdsf\fdasddssfdssfdsf\bin\Debug\fdasddssfdssfdsf.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\МДК 03.01\Бессогонов, Загребин\fdasddssfdssfdsf\fdasddssfdssfdsf\bin\Debug\fdasddssfdssfdsf.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\МДК 03.01\Бессогонов, Загребин\fdasddssfdssfdsf\fdasddssfdssfdsf\bin\Debug\fdasddssfdssfdsf.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\МДК 03.01\Бессогонов, Загребин\fdasddssfdssfdsf\fdasddssfdssfdsf\obj\Debug\fdasddssfdssfdsf.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\МДК 03.01\Бессогонов, Загребин\fdasddssfdssfdsf\fdasddssfdssfdsf\obj\Debug\fdasddssfdssfdsf.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\МДК 03.01\Бессогонов, Загребин\fdasddssfdssfdsf\fdasddssfdssfdsf\obj\Debug\fdasddssfdssfdsf.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\МДК 03.01\Бессогонов, Загребин\fdasddssfdssfdsf\fdasddssfdssfdsf\obj\Debug\fdasddssfdssfdsf.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\МДК 03.01\Бессогонов, Загребин\fdasddssfdssfdsf\fdasddssfdssfdsf\obj\Debug\fdasddssfdssfdsf.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\МДК 03.01\Бессогонов, Загребин\fdasddssfdssfdsf\fdasddssfdssfdsf\obj\Debug\fdasddssfdssfdsf.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\МДК 03.01\Бессогонов, Загребин\fdasddssfdssfdsf\fdasddssfdssfdsf\obj\Debug\fdasddssfdssfdsf.pdb
